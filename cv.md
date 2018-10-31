@@ -1,6 +1,6 @@
 # Vaga
 
-[Preencha aqui a vaga que você pretende]
+#Senior Python Programmer
 
 __Dicas:__
 
@@ -8,7 +8,31 @@ __Dicas:__
 
 # CV
 
-[Preencha aqui o seu cv]
+---
+layout: cv
+title: Rafael Bispo CV
+---
+# Rafael Bispo
+Engenheiro de Software
+<div id="webaddress">
+<a href="rafaelbispo993@gmail.com">rafaelbispo993@gmail.com</a>
+| <a href="https://www.linkedin.com/in/rafael-bispo-da-silva-b22913b2/">Meu Linkedin</a>
+</div>
+
+## Experiências
+'Janeiro/2017 - Atualmente'
+__Desenvolvedor Full Stack__
+__Rede Nacional de Ensino e Pesquisa- RNP, GT-GIIRO__
+
+* Desenvolvimento de uma ferramenta web e mobile que possibilita a
+gestão centralizada de informações de infraestrutura de redes ópticas.
+* Atividades desenvolvidas:1- Participação em todas as etapas do
+desenvolvimento da solução, incluindo definição de funcionalidades,
+projeto, implementação, testes, bem como a demonstração da solução
+em eventos técnicos.
+* Tecnologias e Equipamentos utilizados: Python, Flask, PostgreSQL,
+PostGIS, CSS3, HTML, JavaScript, Leaflet, Docker, Git, Bootstrap,
+Materialize, Django
 
 
 __Dicas:__
